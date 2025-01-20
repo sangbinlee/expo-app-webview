@@ -6,7 +6,7 @@ export default function App() {
   return (
     <WebView
       style={styles.container}
-      source={{ uri: 'https://jenkins.dev9.store/' }}
+      source={{ uri: 'https://next.dev9.store/' }}
     />
   );
 }
